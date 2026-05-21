@@ -15,8 +15,8 @@ function UncontrolledExample() {
           style={{ height: '55vh', objectFit: 'cover' }}
         />
         <Carousel.Caption>
-          <h3></h3>
-          <p></p>
+          
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -27,8 +27,7 @@ function UncontrolledExample() {
           style={{ height: '55vh', objectFit: 'cover' }}
         />
         <Carousel.Caption>
-          <h3></h3>
-          <p></p>
+        
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -39,8 +38,7 @@ function UncontrolledExample() {
           style={{ height: '55vh', objectFit: 'cover' }}
         />
         <Carousel.Caption>
-          <h3></h3>
-          <p></p>
+                    
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
