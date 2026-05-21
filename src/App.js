@@ -2,6 +2,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import NintendoNavbar from './components/navbar';
 import UncontrolledExample from './components/carrossel';
+import PlanosNintendo from './components/demo';
 
 
 
@@ -10,6 +11,7 @@ return (
 <div>
   <NintendoNavbar/>
   <UncontrolledExample/>
+  <PlanosNintendo/>
   
   </div>
 )
